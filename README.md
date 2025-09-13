@@ -1,7 +1,5 @@
 # Maze-game-
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
-Got it. I'll rephrase that README in your same style, you know, keeping it short and clear, kind of personal like the Maze Adventure Game one you did. Here's the rewritten version.
-
 # 🧩 Maze Adventure Game
 
 This is a 2-level maze adventure game. I made it with p5.js and p5.play. The goal is to reach the end of each maze. You move your sprite using the arrow keys. Each maze has its own theme and some challenges. You need to complete them all to win.
